@@ -129,7 +129,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Bioluminescent Waves palette — HEX codes:\n\nGlow Cyan — #01E5FD\nElectric Blue — #0D9AFC\nDeep Night — #0B1931\nTwilight Blue — #1A3C73\nSand — #A9A793\n\nSave this post so you don't lose them 📌",
-    "music": "music/driving_pulse_22s.mp3"
+    "music": "music/driving_pulse_22s.mp3",
+    "cover": "covers/bioluminescence.jpg"
   },
   {
     "id": "malachite",
@@ -138,7 +139,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Malachite palette — HEX codes:\n\nEmerald — #0C7248\nJade — #26A16E\nMint — #B2E4CB\nForest — #09412B\nGold Vein — #B8993D\n\nSave this post so you don't lose them 📌",
-    "music": "music/here_we_go_22s.mp3"
+    "music": "music/here_we_go_22s.mp3",
+    "cover": "covers/malachite.jpg"
   },
   {
     "id": "lagoon",
@@ -147,7 +149,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 a Turquoise Lagoon palette — HEX codes:\n\nTurquoise — #52C4B9\nTeal — #02A4A8\nPetrol — #015F73\nWhite Sand — #F3E5DA\nPalm Green — #2F6953\n\nSave this post so you don't lose them 📌",
-    "music": "music/on_our_way_22s.mp3"
+    "music": "music/on_our_way_22s.mp3",
+    "cover": "covers/lagoon.jpg"
   },
   {
     "id": "persimmon",
@@ -156,7 +159,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Persimmon palette — HEX codes:\n\nPersimmon — #F38D29\nBurnt Orange — #D76514\nGolden Pulp — #FBC076\nCalyx Olive — #5C5E3A\nTwig Brown — #8A5A2B\n\nSave this post so you don't lose them 📌",
-    "music": "music/walk_it_v2_22s.mp3"
+    "music": "music/walk_it_v2_22s.mp3",
+    "cover": "covers/persimmon.jpg"
   },
   {
     "id": "snowyowl",
@@ -165,7 +169,9 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Snowy Owl palette — HEX codes:\n\nSnow White — #FFFFFF\nFrost Grey — #E8EAED\nCharcoal Fleck — #383C40\nOwl Gold — #CB930C\nWinter Sky — #A8B8C8\n\nSave this post so you don't lose them 📌",
-    "music": "music/take_the_leap_22s.mp3"
+    "music": "music/take_the_leap_22s.mp3",
+    "cover": "covers/snowyowl.jpg",
+    "trial": "SS_PERFORMANCE"
   },
   {
     "id": "labradorite",
@@ -174,7 +180,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Labradorite palette — HEX codes:\n\nSlate — #2E3B40\nDeep Teal — #1C7E88\nFlash Blue — #4AA8C6\nGold Flash — #CBB238\nStone Grey — #606974\n\nSave this post so you don't lose them 📌",
-    "music": "music/walk_it_v1_22s.mp3"
+    "music": "music/walk_it_v1_22s.mp3",
+    "cover": "covers/labradorite.jpg"
   },
   {
     "id": "frost",
@@ -183,7 +190,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Hoarfrost palette — HEX codes:\n\nIce White — #EDE5EF\nPale Blue — #C0D0EE\nDawn Lavender — #A1ADD4\nFrost Crystal — #DED9EE\nBlue Mist — #596582\n\nSave this post so you don't lose them 📌",
-    "music": "music/a_little_room_22s.mp3"
+    "music": "music/a_little_room_22s.mp3",
+    "cover": "covers/frost.jpg"
   },
   {
     "id": "bloodorange",
@@ -192,7 +200,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Blood Orange palette — HEX codes:\n\nBlood Red — #AE1D24\nOrange — #E05830\nPeach — #F7A35C\nPith Cream — #F8DFCA\nDark Peel — #6B222B\n\nSave this post so you don't lose them 📌",
-    "music": "music/here_we_go_22s.mp3"
+    "music": "music/here_we_go_22s.mp3",
+    "cover": "covers/bloodorange.jpg"
   },
   {
     "id": "riceterraces",
@@ -201,7 +210,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Rice Terraces palette — HEX codes:\n\nPaddy Olive — #5F6742\nHarvest Gold — #CBB34B\nRipe Rice — #A2930B\nMist — #D7D3C3\nEarth — #7D7245\n\nSave this post so you don't lose them 📌",
-    "music": "music/on_our_way_22s.mp3"
+    "music": "music/on_our_way_22s.mp3",
+    "cover": "covers/riceterraces.jpg"
   },
   {
     "id": "ladybug",
@@ -210,7 +220,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Ladybug palette — HEX codes:\n\nLadybug Red — #CB331D\nSpot Black — #131111\nWhite — #F9F9FA\nLeaf Green — #4F8B2E\nLime — #AACE69\n\nSave this post so you don't lose them 📌",
-    "music": "music/walk_it_v2_22s.mp3"
+    "music": "music/walk_it_v2_22s.mp3",
+    "cover": "covers/ladybug.jpg"
   },
   {
     "id": "bluelaceagate",
@@ -219,7 +230,8 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Blue Lace Agate palette — HEX codes:\n\nLace Blue — #ABC1EB\nCornflower — #7795CF\nMilky White — #EFF0F1\nSand Edge — #C1B6A1\n\nSave this post so you don't lose them 📌",
-    "music": "music/driving_pulse_22s.mp3"
+    "music": "music/driving_pulse_22s.mp3",
+    "cover": "covers/bluelaceagate.jpg"
   },
   {
     "id": "sunflower",
@@ -228,7 +240,9 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Sunflower palette — HEX codes:\n\nSunflower — #FEC100\nAmber — #E89A04\nSeed Brown — #5D381B\nLeaf Green — #547A30\nSummer Sky — #84D2E9\n\nSave this post so you don't lose them 📌",
-    "music": "music/take_the_leap_22s.mp3"
+    "music": "music/take_the_leap_22s.mp3",
+    "cover": "covers/sunflower.jpg",
+    "trial": "SS_PERFORMANCE"
   },
   {
     "id": "dunes",
@@ -237,6 +251,7 @@
     "posted": null,
     "media_id": null,
     "first_comment": "🎨 Desert Dunes palette — HEX codes:\n\nDune Gold — #E8B385\nTerracotta — #C56936\nShadow Brown — #7A3E1E\nPale Sand — #F3D1AF\nDesert Sky — #7CA8D5\n\nSave this post so you don't lose them 📌",
-    "music": "music/a_little_room_22s.mp3"
+    "music": "music/a_little_room_22s.mp3",
+    "cover": "covers/dunes.jpg"
   }
 ]
