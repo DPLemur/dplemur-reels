@@ -2,9 +2,9 @@
 """Пересобирает начало рилса: быстрый хук «What if nature were your designer?».
 
 Таймлайн нового начала:
-  0.00–1.00  чистый кадр героя (без текста)
-  1.00–2.55  крючок (HOOKS), последнее слово оформлено в стиле героя (STYLES), под ним — кружки палитры
-  2.55–2.75  текст гаснет
+  0.00–1.30  чистый кадр героя (без текста)
+  1.30–3.55  крючок (HOOKS), последнее слово оформлено в стиле героя (STYLES), под ним — кружки палитры
+  3.55–3.75  текст гаснет
   дальше     исходное видео с 3.75 с (подписи палитры → Wear/Style/Live → карточка)
   последние 0.5 с — плавный переход в первый кадр (закольцовка)
 
@@ -24,7 +24,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FONT = "/usr/share/fonts/truetype/google-fonts/Lora-Italic-Variable.ttf"
 W, H, FPS = 1080, 1920, 30
 CUT = 3.75            # с какой секунды исходника продолжаем
-T_IMG, T_IN, T_HOLD_END, T_OUT = 1.0, 0.3, 2.55, 0.2
+T_IMG, T_IN, T_HOLD_END, T_OUT = 1.3, 0.3, 3.55, 0.2  # с 28.11: первый кадр дольше (+1 с), рилс ровно 22 с
 SRC_REF = os.environ.get("SRC_REF", "8f1a5f0")  # коммит с исходными видео (до замены музыки)
 
 # Стиль слова «designer?» для каждого героя.
@@ -384,7 +384,7 @@ if __name__ == "__main__":
         vid, out = sys.argv[2], sys.argv[3]
         _, _, bg = hero_frame(vid, tmp)
         for i, fr in enumerate(render_frames(vid, bg)):
-            if i == int(2.2 * FPS):
+            if i == int(3.0 * FPS):
                 fr.save(out)
                 break
         sys.exit()
